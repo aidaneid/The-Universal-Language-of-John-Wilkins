@@ -52,6 +52,8 @@
     padding: 10px; /* Adds some space inside the banner */
     text-align: center; /* Centers the text */
     z-index: 1000; /* Ensures the banner stays on top of other elements */
+    font-size: 20px;
+    a {color: #ffffff; /* Use Hex, RGB, or color names */}
 }
 
 .content {
